@@ -27,8 +27,11 @@ Neste projeto, desenvolvi uma **Landing Page responsiva e estilizada** utilizand
 Durante este desafio, foram aplicados:
 
 ### ✨ HTML5
-- Estrutura semântica da página
-- Uso correto de tags como `header`, `main`, `section`, `footer`, `img`, `p`, `h1`, `h2`
+
+- Conexão correta entre HTML e CSS via `<link>` no `<head>`:
+
+  ```html
+  <link rel="stylesheet" href="./assets/CSS/style.css">
 
 ### 🎨 CSS3
 - Gradientes e sobreposição de camadas com `linear-gradient` e `background-image`
@@ -39,7 +42,6 @@ Durante este desafio, foram aplicados:
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
-
 ## 📌 Créditos
 
 Desafio proposto pela [Digital Innovation One (DIO)](https://dio.me) como parte da **Trilha de CSS**.
